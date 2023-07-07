@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
  ,mgnfmng,mfdn, mfn,hmngd,mhgn,m ,emnm,njgnerj hjffhgfhfh11
 
@@ -11,3 +12,6 @@ jsfgjsjhsdjgfj ,mgnfmng,mfdn, mfn,hmngd,mhgn,m ,emnm,njgnerj hjffhgfhfh11
 jsfgjsjhsdjgfj ,mgnfmng,mfdn, mfn,hmngd,mhgn,m ,emnm,njgnerj hjffhgfhfh11
 >>>>>>> master
 >>>>>>> master
+=======
+hjffhgfhfh11
+>>>>>>> origin/master

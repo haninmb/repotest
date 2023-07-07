@@ -2,9 +2,12 @@
 <footer></footer>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> origin/master
 
 
 
@@ -13,7 +16,10 @@
 =======
 >>>>>>> 88aa0fdb9d1ae0fdd14dfb9e3117d6be789c32c7
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> origin/master
 >>>>>>> master
+=======
+>>>>>>> origin/master

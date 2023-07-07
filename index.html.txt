@@ -1,6 +1,10 @@
 <head></head>
 <footer></footer>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 
 
 
@@ -8,3 +12,8 @@
 
 =======
 >>>>>>> 88aa0fdb9d1ae0fdd14dfb9e3117d6be789c32c7
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> origin/master
+>>>>>>> master

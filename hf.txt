@@ -1,17 +1,23 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-
- ,mgnfmng,mfdn, mfn,hmngd,mhgn,m ,emnm,njgnerj hjffhgfhfh11
-
-jsfgjsjhsdjgfj ,mgnfmng,mfdn, mfn,hmngd,mhgn,m ,emnm,njgnerj hjffhgfhfh11
-
-=======
 <<<<<<< HEAD
- ,mgnfmng,mfdn, mfn,hmngd,mhgn,m ,emnm,njgnerj hjffhgfhfh11
 =======
+>>>>>>> 7443cb5fb7ba668e4d7ef33f84d1723c701079fb
+
+ ,mgnfmng,mfdn, mfn,hmngd,mhgn,m ,emnm,njgnerj hjffhgfhfh11
+
 jsfgjsjhsdjgfj ,mgnfmng,mfdn, mfn,hmngd,mhgn,m ,emnm,njgnerj hjffhgfhfh11
+
+
+ ,mgnfmng,mfdn, mfn,hmngd,mhgn,m ,emnm,njgnerj hjffhgfhfh11
+
+jsfgjsjhsdjgfj ,mgnfmng,mfdn, mfn,hmngd,mhgn,m ,emnm,njgnerj hjffhgfhfh11
+<<<<<<< HEAD
 >>>>>>> master
 >>>>>>> master
 =======
 hjffhgfhfh11
 >>>>>>> origin/master
+=======
+
+>>>>>>> 7443cb5fb7ba668e4d7ef33f84d1723c701079fb

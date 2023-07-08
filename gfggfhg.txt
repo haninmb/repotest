@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 gfggfhg
 
 hanin hanin gfggfhg
@@ -13,3 +14,9 @@ hanin hanin gfggfhg
 
 
 
+=======
+hanin hello world
+free \
+gfggfhg
+
+>>>>>>> c64b106238e8daf02ef95764f86b793d3080720b

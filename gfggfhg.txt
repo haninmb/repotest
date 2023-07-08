@@ -1,20 +1,5 @@
-<<<<<<< HEAD
 
-gfggfhg
-
-hanin hanin gfggfhg
-=
-gfggfhg
-
-,nbmnbmbmnbmnbmnbm nmbmnbmnbmnb
-
-hanin hanin gfggfhg
-
-,nbmnbmbmnbmnbmnbm nmbmnbmnbmnb
-
-=======
 hanin hello world
 free \
 gfggfhg
-,nbmnbmbmnbmnbmnbm nmbmnbmnbmnb
->>>>>>> f3dfbe15c7acaf86088b3daebbbecaab8597c5b8
+

@@ -1,4 +1,4 @@
-#header 1
+# header 1
 ## header 2
 ### header 3
 #### header 4
@@ -12,9 +12,9 @@ git init
 git add 
 backtik
 ---
-####How Add Link:
+#### How Add Link:
 [youtube](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)-learn programs
 
 
 #### How Add Image:
-<img src="https://avatars.githubusercontent.com/u/138794145?v=4"  height="132" width="132">
+<img src="https://avatars.githubusercontent.com/u/138794145?v=4" align="center" height="332" width="332">

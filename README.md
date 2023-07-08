@@ -6,11 +6,11 @@
 ###### header 6
 
 learn course git and github from zero to hero
+
 ex Git :
 ---
 git init
 git add 
-backtik
 ---
 #### How Add Link:
 [youtube](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)-learn programs

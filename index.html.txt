@@ -1,6 +1,5 @@
 <head></head>
 <footer></footer>
-<<<<<<< HEAD
+
 mnbn
-=======
->>>>>>> origin/test
+

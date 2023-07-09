@@ -1,6 +1,5 @@
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 gfggfhg
 
 hanin hanin gfggfhg
@@ -15,14 +14,9 @@ hanin hanin gfggfhg
 
 
 
-=======
-=======
->>>>>>> origin/test
+
 hanin hello world
 free \
 gfggfhg
 
-<<<<<<< HEAD
->>>>>>> c64b106238e8daf02ef95764f86b793d3080720b
-=======
->>>>>>> origin/test
+

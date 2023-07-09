@@ -1,4 +1,3 @@
 *.txt
-b.txt
-a.txt
+!aa.txt
 
